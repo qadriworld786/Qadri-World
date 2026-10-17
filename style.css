@@ -1,0 +1,58 @@
+```css
+body {
+  margin: 0;
+  font-family: 'Noto Nastaliq Urdu', serif;
+  background-color: #0a1f44;
+  color: #ffffff;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0a1f44;
+  padding: 15px 30px;
+  border-bottom: 3px solid #d4af37;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #d4af37;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 18px;
+}
+
+nav a:hover {
+  color: #d4af37;
+}
+
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #12295c;
+}
+
+.hero h1 {
+  color: #d4af37;
+  font-size: 36px;
+}
+
+.intro {
+  padding: 40px 30px;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #0a1f44;
+  border-top: 3px solid #d4af37;
+  color: #d4af37;
+}
+```
